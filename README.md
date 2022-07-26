@@ -1,1 +1,1 @@
-# exercicios
+# exercicio analisador de numeros
